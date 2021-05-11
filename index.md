@@ -3,7 +3,6 @@
 ## <a href="http://www.goinvo.com">GoInvo</a>
 
 Click <a href="https://github.com/lfph/sig-design/tree/main/docs">here</a> to download a design criteria report.
-![Title%20Page] (https://github.com/ellemarcus/lfphvaxdesigncriteria/blob/main/photos/Title%20Page.png)
 
 
 ##### Report Contents:
